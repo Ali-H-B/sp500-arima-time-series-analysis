@@ -79,8 +79,3 @@ This project focuses on modelling the conditional mean of returns. Volatility cl
 
 ---
 
-## Author
-
-Ali Butt  
-MSc Data Science  
-BEng Software Engineering
